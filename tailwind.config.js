@@ -18,6 +18,18 @@ module.exports = {
     },
     extend: {
       colors: {
+        'tertiary-900': '#4E3600',
+        'material-tertiary-50': '#FFF7E3',
+        'material-tertiary-300': '#FCD25E',
+        'tertiary-main': '#FFC117',
+        'secondary-800': '#005477',
+        'secondary-main': '#41B6E6',
+        'primary-blue': '#007DAA',
+        'primary-main': '#A9E261',
+        'primary-500' :'#5D9513',
+        'primary-700': '#336B00',
+        'primary-800': '#265600',
+        'secondary-600': '#007DAA',
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
